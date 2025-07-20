@@ -1,4 +1,4 @@
-# 🇺🇸 USA Map Guessing Game
+# USA Map Guessing Game
 
 This is a fun **USA map guessing game** built using Python's `turtle` module and CSV data.
 
