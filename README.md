@@ -27,7 +27,7 @@ This is a fun **USA map guessing game** built using Python's `turtle` module and
 <img src="result/usa%20map1.png" width="300" height="600">
 
 ### 🟢 After Guessing States
-<img src="result/usa%20map2.png"  width="300" height="600">
+<img src="result/usa map 2.png"  width="300" height="600">
 ---
 
 ## ▶️ How to Run
