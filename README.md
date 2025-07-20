@@ -24,11 +24,10 @@ This is a fun **USA map guessing game** built using Python's `turtle` module and
 ## 🖼️ Screenshots
 
 ### 🟡 Game Interface
-![Game Interface](result/usa%20map1.png)
+<img src="result/usa%20map1.png" width="300" height="600">
 
 ### 🟢 After Guessing States
-![Game Result](result/usa%20map2.png)
-
+<img src="result/usa%20map2.png"  width="300" height="600">
 ---
 
 ## ▶️ How to Run
